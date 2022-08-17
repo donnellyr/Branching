@@ -15,3 +15,4 @@ Categories of git commands, and practice with branching
 * `git branch branchName` - create branch `branchName`
 * `git checkout branchName` - switch to branch `branchName`
 * `git checkout -b otherBranch` - switch to branch `otherBranch`, creating it if it doesn't exist
+* `git config -l` - list local git config settings
